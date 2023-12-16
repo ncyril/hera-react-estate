@@ -4,6 +4,7 @@
     min-height: 50vh;
     grid-template-columns: 1fr 1fr 1fr;
     align-content: center;
+    /* background-image: url("https://i.postimg.cc/6QvHKDsh/view-of-modern-business-skyscrapers-glass-and-sky-view-landscape-of-commercial-building-in-central-c.png"); */
 }
 
 .home-div{
@@ -15,7 +16,7 @@
     background-image: url("https://i.postimg.cc/6QvHKDsh/view-of-modern-business-skyscrapers-glass-and-sky-view-landscape-of-commercial-building-in-central-c.png");
     background-size: cover;
     position: absolute;
-    top: px;
+    top: 0px;
     right: 0px;
     bottom: 0px;
     left: 0px;
@@ -40,4 +41,3 @@ h1 {
 h1{
     grid-column: 1/span3;
 }
-
